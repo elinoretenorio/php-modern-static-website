@@ -1,0 +1,7 @@
+.env
+.git/
+.phpunit.result.cache
+git.sh
+composer.lock
+coverage/
+vendor/
